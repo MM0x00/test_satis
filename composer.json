@@ -1,0 +1,14 @@
+{
+    "name": "kisay/test_satis",
+    "description": "composer satis",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kisay",
+            "email": "kisaythink@gmail.com"
+        }
+    ],
+    "require": {
+        "owlgrin/xss": "^0.1.0"
+    }
+}
